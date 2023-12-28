@@ -1,5 +1,4 @@
 ### Hi there 👋
-<!--
 I'm **MariaAq23/MariaAq23** a web developer passionate about crafting engaging and functional websites.
 ✨ _special_ ✨ .
 
@@ -12,5 +11,4 @@ Excited about collaborating on projects that involve creativity and innovation. 
 - 📫 How to reach me: Connect with me on Twitter | LinkedIn | Email
 - 😄 Pronouns: She/Her
 - 📜 Nerd Alert: I collect and frame snippets of code from my favorite projects. My wall is slowly turning into a museum of my coding adventures.
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
